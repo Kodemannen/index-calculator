@@ -65,7 +65,6 @@ Base G   | 0.17 | 0.00 | 0.17 | 0.67 | 0.00 | 0.17 | 0.17 | 0.33 | 0.33 | 0.17
 Base T   | 0.33 | 0.17 | 0.33 | 0.00 | 0.33 | 0.17 | 0.67 | 0.33 | 0.17 | 0.33
 ```
 
-\ 
 
 The distribution criterion is then the following:
 
