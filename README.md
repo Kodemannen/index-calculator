@@ -1,7 +1,7 @@
 ## Introduction:
 Greetings,
 
-I am working on an automation task for a research project at my institute. It is a problem that regularly occurs in DNA sequence analysis. My code works, but doesn't find solutions for small enough values of $N$. $N=11$ is the best I've found so far, but I would like it down to $N=6$ at best.
+I am working on an automation task for a research project at my institute. It is a problem that regularly occurs in DNA sequence analysis. My code works, but doesn't find solutions for small enough values of $N$. The best found so far is $N=11$, but I would ideally like it down to $N=6$.
 
 
 ## Problem statement:
