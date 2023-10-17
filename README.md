@@ -1,5 +1,7 @@
 ## Introduction:
-Hello everyone, I'm working on an automation task for a research project at my institute. It is a problem that regularly occurs in DNA sequence analysis.
+Greetings,
+
+I am working on an automation task for a research project at my institute. It is a problem that regularly occurs in DNA sequence analysis.
 
 
 ## Problem statement:
@@ -33,14 +35,12 @@ TATGTTGTGC      ATTAAGCCAT
 TACATATGCT      TCACGATTAC
 ```
 
-\ 
 
 To evaluate, we look at column A and B as two distinct sets that each need to satisfy the base distribution criterion.
 
 Let's take column A and go through how we evaluate: First we count up the number of bases of each base type in each position, as exemplified by the following table: 
 
 
-\ 
 ```
 Position |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10
 =====================================================================
@@ -50,14 +50,11 @@ Base G   |  1  |  0  |  1  |  4  |  0  |  1  |  1  |  2  |  2  |  1
 Base T   |  2  |  1  |  2  |  0  |  2  |  1  |  4  |  2  |  1  |  2
 ```
 
-\ 
 
 By dividing all the values by N, we get the fractional representations, as displayed below:
 
 
 
-
-\ 
 
 ```
 Position |  0   |  1   |   2  |   3  |   4  |   5  |   6  |   7  |   8  |   9
